@@ -9,6 +9,7 @@ $headings-font-family:    $headers-font;
 $body-bg:                 $light-gray;
 $font-size-base: 18px;
 
+
 // Colors
 $gray-base:       $gray;
 $brand-primary:   $blue;
@@ -18,8 +19,13 @@ $brand-danger:    $red;
 $brand-warning:   $orange;
 
 // Buttons & inputs' radius
-$border-radius-base:  2px;
-$border-radius-large: 2px;
-$border-radius-small: 2px;
+$border-radius-base:  50px;
+$border-radius-large: 50px;
+$border-radius-small: 50px;
+
+// Buttons background
+$btn-primary-color:              #fff !default;
+$btn-primary-bg:                 #E9C041 !default;
+$btn-primary-border:             darken($btn-primary-bg, 5%) !default;
 
 // Override other variables below!
