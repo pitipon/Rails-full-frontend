@@ -3,7 +3,7 @@ import swal from 'sweetalert';
 
 function loadDynamicBannerText() {
     new Typed('#banner-typed-text', {
-        strings: ["Change your life", "Learn to code"],
+        strings: ["Order food", "in Thailand"],
         typeSpeed: 50,
         loop: true
     });

@@ -1,5 +1,12 @@
 .logo {
-    background-image: asset-url("logo.png");
+    background-image: asset-url("logo2.png");
+    height: 200px;
+    width: 600px;
+    background-size: cover;
+}
+
+.logo2 {
+    background-image: asset-url("logo2.png");
     height: 200px;
     width: 600px;
     background-size: cover;
