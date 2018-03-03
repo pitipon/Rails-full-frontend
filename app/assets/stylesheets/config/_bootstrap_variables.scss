@@ -18,10 +18,15 @@ $brand-info:      $yellow;
 $brand-danger:    $red;
 $brand-warning:   $orange;
 
-// Buttons & inputs' radius
-$border-radius-base:  50px;
-$border-radius-large: 50px;
-$border-radius-small: 50px;
+// inputs' radius
+$border-radius-base:  10px;
+$border-radius-large: 10px;
+$border-radius-small: 10px;
+
+// btn's radius
+$btn-border-radius-base:         50px !default;
+$btn-border-radius-large:        50px !default;
+$btn-border-radius-small:        50px !default;
 
 // Buttons background
 $btn-primary-color:              #fff !default;
