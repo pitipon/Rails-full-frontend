@@ -1,25 +1,20 @@
-# README
+Rails Full Front-End 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+made with lewagon template
 
-Things you may want to cover:
+1. Rails with webpack
+2. Bootstrap
+3. Simple-form-for with bootstrap
+4. Nice Landing page with cards and modal
+5. Postgres DB 
+6. Pure model .. no db migrate
+7. No authen / devise
 
-* Ruby version
+------------------------------
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Rails-Front-end
+Installation
+1. git clone this project
+2. bundle install 
+3. yarn install
+4. rails s
+Done.
